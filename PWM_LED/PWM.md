@@ -10,7 +10,7 @@ On되는 시간에 따라 그 주기가 달라지고, 주기가 낮다면 그에
 
 ![Alt text](https://github.com/Funniest/Raspbreey_pi-GPIO/blob/master/PWM_LED/img/Duty.PNG)
 
-아래의 선은 헤르츠로 보면 될것 같고 올라와 있는것이 Duty입니다.
+위 그림의 선은 헤르츠로 보면 될것 같고 올라와 있는것이 Duty입니다.
 
 한 주기당 몇 Duty만큼 올라와 있냐 라는 뜻인 것 같습니다.
 
