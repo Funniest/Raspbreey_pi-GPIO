@@ -43,9 +43,9 @@ GPIO.output(P_led02, GPIO.HIGH)
 try :
         while True :
                 GPIO.output(P_led01, GPIO.HIGH)
-                time.sleep(0.001)
+                time.sleep(0.002)
                 GPIO.output(P_led01, GPIO.LOW)
-                time.sleep(0.009)
+                time.sleep(0.018)
 except (KeyboardInterrupt, SystemExit) :
         print('Bye~~!')
         GPIO.cleanup()
