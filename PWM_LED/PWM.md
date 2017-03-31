@@ -8,7 +8,7 @@ On되는 시간에 따라 그 주기가 달라지고, 주기가 낮다면 그에
 
 아래 그림은 간단히 주기를 그려보았습니다.
 
-그림[1]
+![Alt text](https://github.com/Funniest/Packet-Sniffing/blob/master/img/packet.PNG)
 
 아래의 선은 헤르츠로 보면 될것 같고 올라와 있는것이 Duty입니다.
 
